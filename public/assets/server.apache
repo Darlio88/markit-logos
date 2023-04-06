@@ -1,0 +1,20 @@
+<VirtualHost *:80>
+    ServerName phpstack-901892-3330166.cloudwaysapps.com
+    ServerAlias www.phpstack-901892-3330166.cloudwaysapps.com
+
+    ProxyRequests Off
+    ProxyPreserveHost On
+
+    <Proxy *>
+        Order allow,deny
+        Allow from all
+    </Proxy>
+
+    ProxyPass / http://localhost:3000/
+    ProxyPassReverse / http://localhost:3000/
+</VirtualHost>
+
+
+sudo ln -s /etc/nginx/sites-available/markit.conf /etc/nginx/sites-enabled/
+
+pm2 start npm --name markit -- start

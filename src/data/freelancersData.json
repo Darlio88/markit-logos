@@ -1,0 +1,104 @@
+{
+    "freelancers": [
+      {
+        "name": "John Smith",
+        "title": "Logo Designer",
+        "email": "johnsmith@example.com",
+        "phone": "555-555-5555",
+        "skills": ["Logo Design"],
+        "hourly_rate": 50,
+        "portfolio": [
+          {
+            "title": "ABC Company Logo",
+            "description": "Logo designed for ABC Company.",
+            "image_url": "https://example.com/abc-logo.png"
+          },
+          {
+            "title": "XYZ Corporation Logo",
+            "description": "Logo designed for XYZ Corporation.",
+            "image_url": "https://example.com/xyz-logo.png"
+          }
+        ]
+      },
+      {
+        "name": "Jane Doe",
+        "title": "Web Developer",
+        "email": "janedoe@example.com",
+        "phone": "555-555-5555",
+        "skills": ["Web Development"],
+        "hourly_rate": 80,
+        "portfolio": [
+          {
+            "title": "ABC Company Website",
+            "description": "Website developed for ABC Company.",
+            "image_url": "https://example.com/abc-website.png"
+          },
+          {
+            "title": "XYZ Corporation Website",
+            "description": "Website developed for XYZ Corporation.",
+            "image_url": "https://example.com/xyz-website.png"
+          }
+        ]
+      },
+      {
+        "name": "Michael Johnson",
+        "title": "App Developer",
+        "email": "michaeljohnson@example.com",
+        "phone": "555-555-5555",
+        "skills": ["App Development"],
+        "hourly_rate": 90,
+        "portfolio": [
+          {
+            "title": "ABC Company App",
+            "description": "App developed for ABC Company.",
+            "image_url": "https://example.com/abc-app.png"
+          },
+          {
+            "title": "XYZ Corporation App",
+            "description": "App developed for XYZ Corporation.",
+            "image_url": "https://example.com/xyz-app.png"
+          }
+        ]
+      },
+      {
+        "name": "Sarah Lee",
+        "title": "Branding Specialist",
+        "email": "sarahlee@example.com",
+        "phone": "555-555-5555",
+        "skills": ["Branding"],
+        "hourly_rate": 70,
+        "portfolio": [
+          {
+            "title": "ABC Company Branding",
+            "description": "Branding designed for ABC Company.",
+            "image_url": "https://example.com/abc-branding.png"
+          },
+          {
+            "title": "XYZ Corporation Branding",
+            "description": "Branding designed for XYZ Corporation.",
+            "image_url": "https://example.com/xyz-branding.png"
+          }
+        ]
+      },
+      {
+        "name": "David Kim",
+        "title": "Brochure Designer",
+        "email": "davidkim@example.com",
+        "phone": "555-555-5555",
+        "skills": ["Brochure"],
+        "hourly_rate": 60,
+        "portfolio": [
+          {
+            "title": "ABC Company Brochure",
+            "description": "Brochure designed for ABC Company.",
+            "image_url": "https://example.com/abc-brochure.png"
+          },
+          {
+            "title": "XYZ Corporation Brochure",
+            "description": "Brochure designed for XYZ Corporation.",
+            "image_url": "https://example.com/xyz-brochure"
+          }   
+    ]
+}
+    ]
+}
